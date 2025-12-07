@@ -9,4 +9,4 @@ My expertise lies in core programming and front-end development, ensuring a foun
  * Web Technologies: HTML, CSS
  * Fundamental Concepts: Data Structures and Algorithms (DSA)
  * Specialization: CSE AIML (Artificial Intelligence/Machine Learning Focus)
-Would you like me to write a brief description for your Gamified Learning Platform project next?
+
